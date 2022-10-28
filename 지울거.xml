@@ -63,12 +63,7 @@
         android:strokeAlpha="0.24"
         android:strokeWidth="1"
         android:pathData="M260 795.5h120"/>
-    <path
-        android:fillAlpha="0.24"
-        android:strokeColor="#DE000000"
-        android:strokeAlpha="0.24"
-        android:strokeWidth="1"
-        android:pathData="M31 795.5h120"/>
+
     <path
         android:fillAlpha="0.48"
         android:strokeColor="#FF304FFE"
